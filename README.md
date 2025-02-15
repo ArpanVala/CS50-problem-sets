@@ -1,6 +1,11 @@
-# 🎓 CS50 Problem Set Solutions
+# 🎓 CS50 Introduction to CS - Problem Sets Solutions
 
-Welcome to my **CS50 Problem Set Solutions** repository! 🚀 This repository contains my solutions to the problem sets from Harvard's [CS50: Introduction to Computer Science](https://cs50.harvard.edu/) course. Each week's problem set solutions are neatly organized in their respective folders. 📁✨
+Welcome to my **CS50 Problem Set Solutions** repository! 🚀 This repository contains my solutions to the problem sets from Harvard's [CS50: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) course. Each week's problem set solutions are neatly organized in their respective folders. 📁✨
+<br/>
+
+## ⚠️ Important Notice
+These are **my personal submissions** for the CS50 problem sets. You are welcome to use them for reference and learning purposes only. **Do not copy-paste** these solutions as it is explicitly mentioned on the CS50 site that any form of plagiarism, including AI-generated answers or copied solutions, can result in the **revocation of the CS50 certificate** and disqualification from completing the course.
+
 
 ## 📂 Repository Structure
 
@@ -24,40 +29,20 @@ The repository is structured week-wise as follows:
 
 Each folder contains solutions corresponding to that week's problem set. 🏆
 
-## 🚀 Getting Started
-
-If you want to explore and run the solutions on your local machine, follow these steps:
-
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your-username/CS50-Problem-Sets.git
-   ```
-2. **Navigate to a week's folder**
-   ```sh
-   cd CS50-Problem-Sets/WEEK-1
-   ```
-3. **Compile and run a solution** (for C programs)
-   ```sh
-   gcc problem-0.c -o problem-0 -lcs50
-   ./problem-0
-   ```
-
 ## 🛠 Tools & Technologies Used
 
 - **C Programming** – The primary language used in CS50
 - **Python & SQL** – Used in later weeks
 - **CS50 Library** – Some problems use the CS50 library for easier input handling
 - **VS Code / CS50 IDE** – Recommended for coding and debugging
+- **JavaScript, HTML & CSS** – For web development concepts
+- **Flask & Django** – Web frameworks covered in the course
 
 ## 🎯 Why This Repository?
 
 - 📌 A **reference** for anyone following the CS50 course
 - 🎯 A **practice ground** for problem-solving
 - 🚀 A **personal archive** to track my progress
-
-## 🤝 Contributing
-
-Although these are my personal solutions, feel free to fork the repo, suggest improvements, or discuss alternative approaches!
 
 ## 📜 Disclaimer
 
